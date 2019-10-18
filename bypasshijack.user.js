@@ -11,7 +11,7 @@
 (function() {
     'use strict';
 
-    var HijackIP = ["59.29.251.41","210.117.120.50"];
+    var HijackIP = ["59.29.251.41","210.117.120.50","210.117.121.212"];
 
     for(var i = 0;i < document.getElementsByTagName("script").length; i++) {
         for(var j = 0;j < HijackIP.length; j++) {
