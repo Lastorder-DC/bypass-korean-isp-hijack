@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ByPass Korean ISP Hijack
 // @namespace    http://lastorder.xyz/
-// @version      0.1
+// @version      0.2
 // @description  ByPass Korean ISP Hijack
 // @author       Lastorder_DC
 // @match        http://*/*
